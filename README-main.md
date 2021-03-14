@@ -87,7 +87,7 @@
 
 🔼 **LRU Cache** (2020.08.21)
 
-- **설명 :** LRU(Least Recently Used) 페이징 알고리즘을 이용한 Cache를 Deque를 이용하여 구현했습니다.
+- **설명 :** LRU(Least Recently Used) 페이징 알고리즘을 적용한 Cache를 Deque모듈을 이용하여 구현했습니다.
 - **기술 :** Python (use module : deque)
 - **형태 :** 개인 작업
 - **Git :** https://github.com/kitae0522/LRU_Cache
@@ -98,7 +98,7 @@
 
 🔼 **단대라이프** (2020.11.24)
 
-- **설명 :** Kakao에서 공식적으로 지원하는 Kakao i Open Builder를 이용하여 '단국대학교부속소프트웨어' 학생, 선생님들을 위해 '단대라이프'라는 카카오톡 챗봇을 만들었습니다.
+- **설명 :** Kakao에서 공식적으로 지원하는 Kakao i Open Builder를 이용하여 '단국대학교부속소프트웨어고등학교' 학생, 선생님들을 위해 '단대라이프'라는 카카오톡 챗봇을 만들었습니다.
 - **기술 :** Python (use module : flask, requests, pandas ...)
 - **형태 :** 개인 작업
 - **Git :** https://github.com/kitae0522/DKSH-KAKAO-i
