@@ -20,6 +20,6 @@
 
 ## Do you want to know more about me?
 
-[>> Click REDEME.md <<](https://github.com/kitae0522/kitae0522/blob/main/README_main.md)
+[>> Click REDEME.md <<](https://github.com/kitae0522/kitae0522/blob/main/README-main.md)
 
 [![Tech Blog Badge](https://img.shields.io/badge/-기태의%20개발블로그-black?style=flat-square&logo=github&link=https://kitae0522.tistory.com/)](https://kitae0522.tistory.com/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCjNQdsTZcu3JM1eisjAGcPw)](https://www.youtube.com/channel/UCjNQdsTZcu3JM1eisjAGcPw) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/kitae0522)](https://web.facebook.com/kitae0522) [![Gmail Badge](https://img.shields.io/badge/kitae040522@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kitae.business@gmail.com)](mailto:kitae.business@gmail.com)

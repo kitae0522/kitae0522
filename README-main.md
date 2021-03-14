@@ -1,6 +1,6 @@
 <center>
 
-![](https://github.com/kitae0522/kitae0522/blob/master/img/songkitae.png?raw=true)
+![](https://github.com/kitae0522/kitae0522/blob/main/img/songkitae.png?raw=true)
 
 </center>
 
